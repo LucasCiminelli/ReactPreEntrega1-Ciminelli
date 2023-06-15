@@ -1,0 +1,24 @@
+.logo-nav {
+  font-weight: 500;
+}
+
+.main-container {
+  background-image: url(https://eminence.ch/wp-content/uploads/2022/02/commerce-tips-2022.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+  height: 91vh;
+  display: flex;
+  justify-content: start;
+  padding-left: 20px;
+}
+
+.bienvenida {
+  font-size: 2.5rem;
+  font-weight: 800;
+  padding-top: 40px;
+  text-shadow: 5px 5px #558abb;
+  color: white;
+}
